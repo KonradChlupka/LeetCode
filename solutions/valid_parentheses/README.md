@@ -4,9 +4,9 @@ Runtime: 24 ms, faster than 90.37% of Python3 online submissions for Valid Paren
 Memory Usage: 13 MB, less than 98.26% of Python3 online submissions for Valid Parentheses.
 
 # Submission `stack.py`
-Runtime: 20 ms, faster than 97.80% of Python3 online submissions for Valid Parentheses.
+Runtime: 24 ms, faster than 90.37% of Python3 online submissions for Valid Parentheses.
 
-Memory Usage: 13 MB, less than 95.65% of Python3 online submissions for Valid Parentheses.
+Memory Usage: 13 MB, less than 96.52% of Python3 online submissions for Valid Parentheses.
 
 # Description
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
