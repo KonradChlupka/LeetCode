@@ -6,6 +6,7 @@ LeetCode
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|Algorithms|Easy|[Python](./solutions/verifying_an_alien_dictionary/)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Algorithms|Easy|[Python](./solutions/reverse_linked_list/)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|Algorithms|Easy|[Python](./solutions/happy_number/)|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|Algorithms|Easy|[Python](./solutions/min_stack/)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Algorithms|Medium|[Python](./solutions/lru_cache/)|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Algorithms|Easy|[Python](./solutions/best_time_to_buy_and_sell_stock/)|
 |53|[Maximum Subarrary](https://leetcode.com/problems/maximum-subarray/)|Algorithms|Easy|[Python](./solutions/maximum_subarray/)|
