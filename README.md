@@ -3,6 +3,7 @@ LeetCode
 | # | Title | Category | Difficulty | Solution |
 |---|-------|----------|------------|----------|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|Algorithms|Easy|[Python](./solutions/rotting_oranges/)|
+|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|Algorithms|Easy|[Python](./solutions/verifying_an_alien_dictionary/)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Algorithms|Easy|[Python](./solutions/reverse_linked_list/)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|Algorithms|Easy|[Python](./solutions/happy_number/)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Algorithms|Medium|[Python](./solutions/lru_cache/)|
