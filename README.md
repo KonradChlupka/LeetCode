@@ -7,6 +7,7 @@ LeetCode
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Algorithms|Easy|[Python](./solutions/reverse_linked_list/)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|Algorithms|Easy|[Python](./solutions/happy_number/)|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|Algorithms|Medium|[Python](./solutions/number_of_islands/)|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|Algorithms|Easy|[Python](./solutions/house_robber/)|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|Algorithms|Easy|[Python](./solutions/min_stack/)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Algorithms|Medium|[Python](./solutions/lru_cache/)|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Algorithms|Easy|[Python](./solutions/best_time_to_buy_and_sell_stock/)|
