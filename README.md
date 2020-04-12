@@ -6,6 +6,7 @@ LeetCode
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|Algorithms|Easy|[Python](./solutions/verifying_an_alien_dictionary/)|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|Algorithms|Easy|[Python](./solutions/middle_of_the_linked_list/)|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|Algorithms|Easy|[Python](./solutions/backspace_string_compare/)|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|Algorithms|Easy|[Python](./solutions/diameter_of_binary_tree/)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Algorithms|Easy|[Python](./solutions/move_zeroes/)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Algorithms|Medium|[Python](./solutions/product_of_array_except_self/)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Algorithms|Easy|[Python](./solutions/reverse_linked_list/)|
