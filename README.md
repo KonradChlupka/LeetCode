@@ -2,6 +2,7 @@ LeetCode
 ========
 | # | Title | Category | Difficulty | Solution |
 |---|-------|----------|------------|----------|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|Algorithms|Easy|[Python](./solutions/last_stone_weight/)|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|Algorithms|Easy|[Python](./solutions/rotting_oranges/)|
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|Algorithms|Easy|[Python](./solutions/verifying_an_alien_dictionary/)|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|Algorithms|Easy|[Python](./solutions/middle_of_the_linked_list/)|
