@@ -26,6 +26,7 @@ LeetCode
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Algorithms|Easy|[Python](./solutions/best_time_to_buy_and_sell_stock/)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Algorithms|Easy|[Python](./solutions/climbing_stairs/)|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|Algorithms|Medium|[Python](./solutions/minimum_path_sum/)|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|Algorithms|Medium|[Python](./solutions/jump_game/)|
 |53|[Maximum Subarrary](https://leetcode.com/problems/maximum-subarray/)|Algorithms|Easy|[Python](./solutions/maximum_subarray/)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Algorithms|Medium|[Python](./solutions/group_anagrams/)|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Algorithms|Medium|[Python](./solutions/search_in_rotated_sorted_array/)|
